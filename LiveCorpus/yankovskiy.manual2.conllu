@@ -1277,7 +1277,7 @@
 1277	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#388.727#388.905
 1278	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#388.905#389.083
 1279	вот	вот	PART	_	_	_	_	_	words@ify1990m#@ify1990m#389.083#389.261
-1280	что	что	PRON	_	Case=Nom	_	_	_	words@ify1990m#@ify1990m#389.261#389.439
+1280	что	что	PRON	_	Case=Acc	_	_	_	words@ify1990m#@ify1990m#389.261#389.439
 1281	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@ify1990m#@ify1990m#389.439#389.617
 1282	про	про	ADP	_	_	_	_	_	words@ify1990m#@ify1990m#389.617#389.795
 1283	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ify1990m#@ify1990m#389.795#389.973
